@@ -1,0 +1,22 @@
+.h2{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-overflow: clip;
+}
+
+.loginconsole{
+    color: aqua;
+    display: flex;
+    width: 100px;
+    height: 100px;
+     
+}
+.loginbutton{
+    background-color: blueviolet;
+    width: 40px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
